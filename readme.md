@@ -2,6 +2,8 @@
 
 ## Criando uma aplicação de to-do
 
+<p align="center"><img src="Screenshot_20180709_133705.png"></p>
+
 - https://www.devmedia.com.br/introducao-ao-backbone-js/29303
 - https://jgn.me/
 - https://github.com/jeromegn
